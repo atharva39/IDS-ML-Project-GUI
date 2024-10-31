@@ -25,8 +25,8 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/atharva39/IDS-Major-Project.git
-cd IDS-Major-Project
+git clone https://github.com/atharva39/IDS-ML-Project-GUI.git
+cd IDS-ML-Project-GUI
 ```
 
 2. Install the required dependencies:
