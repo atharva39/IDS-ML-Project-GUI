@@ -55,7 +55,7 @@ streamlit run app.py
 - Matplotlib & Seaborn: For data visualization.  
 
 ### Contact Information
-For any inquiries or feedback, please contact **Atharva Patil** at atharvapersonal@gmail.com.
+For any inquiries or feedback, please contact **Atharva Patil** at contact@thecyberguy.in.
 
 ### Explore the Notebook
 To see my initial approach and analysis, visit my first step in this [link](https://github.com/atharva39/IDS-ML-Project).
